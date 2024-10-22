@@ -1,2 +1,2 @@
 # helow_world
-my name is ishida soma
+my name is Ishida Soma
